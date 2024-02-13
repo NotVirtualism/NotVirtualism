@@ -1,5 +1,9 @@
-### Hi there 👋
+# Loading...
+##### Welcome to my profile 👋
 
+I'm a college student Computer Science major trying to get my foot into the door and find my avenue, as I'm into a little bit of everything.
+- 🔭 I’m currently working on trying to survive school. Also got some games and other projects in the works.
+- 🌱 I’m currently learning Python, Java, C, C++, C#, Unity, GameMaker, and various creative programs.
 <!--
 **NotVirtualism/NotVirtualism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
